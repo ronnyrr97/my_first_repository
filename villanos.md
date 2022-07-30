@@ -6,3 +6,4 @@
 4. sandman
 5. tribolon 2
 6. jerry
+7. malefic
